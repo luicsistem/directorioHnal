@@ -351,6 +351,126 @@ let directorio = [
         "name": "Dra. Ruth Castellanos Pantoja", 
         "correo": "rCastellanos@hospitalloayza.gob.pe",
         "anexo": 2900
+    },
+       {
+        "id": 44,
+        "area": "Dpto. de Patologia Clinica y Banco de Sangre",
+        "cargo": "Jefatura",
+        "name": "Dr. Percy Genaro Salas Ponce", 
+        "correo": "psalas@hospitalloayza.gob.pe",
+        "anexo": 3011
+    },
+    {
+        "id": 45,
+        "area": "Dpto. de Anatomia Patologica",
+        "cargo": "Jefatura",
+        "name": "Dr. Pierino Humberto alvarez Bedoya", 
+        "correo": "palvarez@hospitalloayza.gob.pe",
+        "anexo": 3001
+    },
+     {
+        "id": 46,
+        "area": "Dpto. de Diagnostico por Imagenes",
+        "cargo": "Jefatura",
+        "name": "Dra. Maria Cecilia Ortiz Mejia", 
+        "correo": "mortiz@hospitalloayza.gob.pe",
+        "anexo": 3201
+    },
+     {
+        "id": 47,
+        "area": " Dpto. de Nutricion y Dietetica",
+        "cargo": "Jefatura",
+        "name": "Lic. Roxana Roman Gameros", 
+        "correo": "mortiz@hospitalloayza.gob.pe",
+        "anexo": 3301
+    },
+      {
+        "id": 48,
+        "area": "Dpto. de Servicio Social",
+        "cargo": "Jefatura",
+        "name": "Lic. Marieta Mercedes Vilca Hurtado", 
+        "correo": "mvilca@hospitalloayza.gob.pe",
+        "anexo": 3401
+    },
+     {
+        "id": 49,
+        "area": "Dpto. de Farmacia",
+        "cargo": "Jefatura",
+        "name": "Q.F Haydee Bertha Lapa Barzola", 
+        "correo": "hlapa@hospitalloayza.gob.pe",
+        "anexo": 3501
+    },
+      {
+        "id": 50,
+        "area": "Dpto. de Consulta Externa y Hospitalizacion",
+        "cargo": "Jefatura",
+        "name": "Dra. America Lucia Chang Yui", 
+        "correo": "achang@hospitalloayza.gob.pe",
+        "anexo": 6800
+    },
+      {
+        "id": 51,
+        "area": "Dpto. de Emergencia y Cuidados Criticos",
+        "cargo": "Jefatura",
+        "name": "Dr. Ivan Bernuy Rodriguez", 
+        "correo": " ibernuy@hospitalloayza.gob.pe",
+        "anexo": 6700
+    },
+      {
+        "id": 52,
+        "area": "Oficina de Referencia y Contrarreferencia",
+        "cargo": "Jefatura",
+        "name": "Dra. Leslie Chavarry Mena", 
+        "correo": "lchavarr@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+      {
+        "id": 53,
+        "area": "Presidente Cuerpo Medico",
+        "cargo": "Jefatura",
+        "name": "Dr. Francisco Amado Asmat", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+     {
+        "id": 54,
+        "area": "Sindicato de Enfermeras",
+        "cargo": "Jefatura",
+        "name": "Lic. Antonia Rufina Coz Mallqui", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+      {
+        "id": 55,
+        "area": "Sindicato de Tecnologos Medicos",
+        "cargo": "Jefatura",
+        "name": "Sr. Abel Salazar Villanueva", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+       {
+        "id": 56,
+        "area": "Sindicato SUTHAL",
+        "cargo": "Jefatura",
+        "name": "Sr. Cesar Terreros Palacios.", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+     {
+        "id": 57,
+        "area": "Sindicato de Auxiliares y Tec. Enfermeria",
+        "cargo": "Jefatura",
+        "name": "Sr. Juan Jose Jacobi Niño", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
+    },
+        {
+        "id": 57,
+        "area": "Presidente Sub. Cafae",
+        "cargo": "Jefatura",
+        "name": "Dr. Wilfredo Jesús Cartolin Espinoza", 
+        "correo": "@hospitalloayza.gob.pe",
+        "anexo": 5555
     }
 
 
