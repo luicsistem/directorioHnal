@@ -381,7 +381,7 @@ let directorio = [
         "area": " Dpto. de Nutricion y Dietetica",
         "cargo": "Jefatura",
         "name": "Lic. Roxana Roman Gameros", 
-        "correo": "mortiz@hospitalloayza.gob.pe",
+        "correo": "hcarrasco@hospitalloayza.gob.pe",
         "anexo": 3301
     },
       {
