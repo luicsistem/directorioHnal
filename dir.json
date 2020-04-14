@@ -1,0 +1,279 @@
+{
+    "directorio": [
+        {
+            "id": 1,
+            "area": "Direcccion General",
+            "cargo": "Director General",
+            "name": "Dr. Juan Enrique Machicado Zuñiga", 
+            "correo": "Jmachicado@hospitalloayza.gob.pe",
+            "anexo": 1000
+        },
+
+        {
+            "id": 2,
+            "area": "direcccion Adjunta",
+            "cargo": "Director Adjunto de la Direccion General",
+            "name": "Dra. Debbie Ofelia Miyasato Higa", 
+            "correo": "dmiyasato@hospitalloayza.gob.pe",
+            "anexo": 1002
+        },
+        {
+            "id": 3,
+            "area": "organo de Control Institucional",
+            "cargo": "Jefa",
+            "name": "C.P.C. Julia Soledad Lujan Calvo", 
+            "correo": "jlujan@hospitalloayza.gob.pe",
+            "anexo": 1101
+
+        },
+        {
+            "id": 4,
+            "area": "Oficina Ejecucion Planeamiento Estrategico",
+            "cargo": "Jefatura",
+            "name": "Ing. Armando Alfredo Blas Zelada", 
+            "correo": "abla@hospitalloayza.gob.pe",
+            "anexo": 2500
+        },
+        {
+            "id": 5,
+            "area": "Oficina de  Asesoria Juridica",
+            "cargo": "Jefatura",
+            "name": "Abogado Ramon Farro Samame", 
+            "correo": "rfarro@hospitalloayza.gob.pe",
+            "anexo": 2601
+        },
+        {
+            "id": 6,
+            "area": "Oficina  de Epidemiologia y Salud Ambiental",
+            "cargo": "Jefatura",
+            "name": "Dra. Ivett Pinedo Ramirez", 
+            "correo": "ypinedo@hospitalloayza.gob.pe",
+            "anexo": 7000
+        },
+        {
+            "id": 7,
+            "area": "Oficina de Gestion de la Calidad",
+            "cargo": "Jefatura",
+            "name": "Dra. Zandra Judith Moncada Vilela", 
+            "correo": "zmoncada@hospitalloayza.gob.pe",
+            "anexo": 2800
+        },
+        {
+            "id": 8,
+            "area": "Oficina Ejecutiva de Administracion",
+            "cargo": "Jefatura",
+            "name": "Abog. Marco Antonio Voye Vizcarra Vela", 
+            "correo": "mvizcarra@hospitalloayza.gob.pe",
+            "anexo": 1004
+        },
+        {
+            "id": 9,
+            "area": "Oficina de Personal",
+            "cargo": "Jefatura",
+            "name": "Lic. Julia Petronila Cabello Acevedo ", 
+            "correo": "jcabello@hospitalloayza.gob.pe",
+            "anexo": 1200
+        },
+        {
+            "id": 10,
+            "area": "Unidad Desarrollo y Capacitacion",
+            "cargo": "Jefatura",
+            "name": "Lic. Rosa Agustina Rojas Rodriguez ", 
+            "correo": "rrojas@hospitalloayza.gob.pe",
+            "anexo": 1205
+        },
+        {
+            "id": 11,
+            "area": " Unidad de Bienestar",
+            "cargo": "Jefatura",
+            "name": "Ing. Lorena Eliana Castillo Serna", 
+            "correo": "lcastillos@hospitalloayza.gob.pe",
+            "anexo": 1202
+        },
+        {
+            "id": 12,
+            "area": "Unidad de Programacion, Presupuesto y Planeamiento de RRHH",
+            "cargo": "Jefatura",
+            "name": "Sr. Mauro Javier Obregon Muñoz", 
+            "correo": "mobregon@hospitalloayza.gob.pe",
+            "anexo": 1207
+        },
+        {
+            "id": 13,
+            "area": " Unidad de Ingreso de Escalafon",
+            "cargo": "Jefatura",
+            "name": "Sra. Rosa Janet Vasquez Manay", 
+            "correo": "rvasquez@hospitalloayza.gob.pe",
+            "anexo": 1207
+        },
+        {
+            "id": 14,
+            "area": " Unidad de Remuneraciones Beneficios y Pensiones",
+            "cargo": "Jefatura",
+            "name": "Sra. Elsa Eufemia Hihuallanca Riquelme", 
+            "correo": "ehihuallanca@hospitalloayza.gob.pe",
+            "anexo": 1203
+        },
+        {
+            "id": 15,
+            "area": " Unidad de Salud Ocupacional",
+            "cargo": "Jefatura",
+            "name": "Dr. Mario Daniel Danilla Davila ", 
+            "correo": "mdanilla@hospitalloayza.gob.pe",
+            "anexo": 5555
+        },
+        {
+            "id": 16,
+            "area": " Secretaria Tecnica de los organos Instructores del Proceso Disciplinario Administrativo",
+            "cargo": "Jefatura",
+            "name": "Lic. Mercedes Miluzca Cruz Toribio ", 
+            "correo": "mcruz@hospitalloayza.gob.pe",
+            "anexo": 5555
+        },
+        {
+            "id": 16,
+            "area": "Oficina de Economia",
+            "cargo": "Jefatura",
+            "name": "C.P.C. Veronica Bravo Peña", 
+            "correo": "vbravo@hospitalloayza.gob.pe",
+            "anexo": 1401
+        },
+        {
+            "id": 17,
+            "area": "Oficina de Logistica",
+            "cargo": "Jefatura",
+            "name": "Lic. Freddy Alfonso Mendocilla Alvarez", 
+            "correo": "fmendocilla@hospitalloayza.gob.pe",
+            "anexo": 1300
+        },
+        {
+            "id": 18,
+            "area": "Servicios Generales y Mantenimiento",
+            "cargo": "Jefatura",
+            "name": "Ing. Jorge Luis Takami Oblitas", 
+            "correo": "jtakami@hospitalloayza.gob.pe",
+            "anexo": 1501
+        },
+        {
+            "id": 19,
+            "area": " Unidad de Costura",
+            "cargo": "Jefatura",
+            "name": "Sr. Mario de la Cruz Yauri ", 
+            "correo": "mdelacruzy@hospitalloayza.gob.pe",
+            "anexo": 2001
+        },
+        {
+            "id": 20,
+            "area": " Unidad de Lavanderia",
+            "cargo": "Jefatura",
+            "name": "Sr. Rodolfo Castilla Ponce de Leon", 
+            "correo": "rcastilla@hospitalloayza.gob.pe",
+            "anexo": 1901
+        },
+        {
+            "id": 21,
+            "area": "Unidad de Limpieza",
+            "cargo": "Jefatura",
+            "name": "Sr. Israel Paredes Carbajal", 
+            "correo": "iparedes@hospitalloayza.gob.pe",
+            "anexo": 5555
+        },
+        {
+            "id": 22,
+            "area": "Unidad de Mantenimiento",
+            "cargo": "Jefatura",
+            "name": "Sr. Luis Diaz Sanchez", 
+            "correo": "lsanchez@hospitalloayza.gob.pe",
+            "anexo": 1701
+        },
+        {
+            "id": 23,
+            "area": "Unidad de Ingenieria Clinica",
+            "cargo": "Jefatura",
+            "name": "Ing. Edwin Silverio Aponte Penadillo", 
+            "correo": "eaponte@hospitalloayza.gob.pe",
+            "anexo": 1516
+        },
+        {
+            "id": 24,
+            "area": "Unidad de Transportes",
+            "cargo": "Jefatura",
+            "name": "Sr. Cesar Luis Garcia Laya", 
+            "correo": "cgarcia@hospitalloayza.gob.pe",
+            "anexo": 1515
+        },
+        {
+            "id": 25,
+            "area": " Unidad de Vigilancia",
+            "cargo": "Jefatura",
+            "name": "Sr. Martin Franco Infantes", 
+            "correo": "mfranco@hospitalloayza.gob.pe",
+            "anexo": 1600
+        },
+        {
+            "id": 26,
+            "area": "Oficina de Comunicaciones",
+            "cargo": "Jefatura",
+            "name": "Mg. Natalia Patricia Ysla Rubiños ", 
+            "correo": "nysla@hospitalloayza.gob.pe",
+            "anexo": 2100
+        },
+        {
+            "id": 27,
+            "area": "Central Telefonica",
+            "cargo": "Jefatura",
+            "name": "Sra. Mery Moscol Rojas", 
+            "correo": "mmoscolr@hospitalloayza.gob.pe",
+            "anexo": 5555
+        },
+        {
+            "id": 28,
+            "area": "Oficina de Estadistica e Informatica",
+            "cargo": "Jefatura",
+            "name": "Ing. Marco Antonio Pozo Espinoza", 
+            "correo": "mpozo@hospitalloayza.gob.pe",
+            "anexo": 2200
+        },
+        {
+            "id": 29,
+            "area": " Unidad de Informatica",
+            "cargo": "Jefatura",
+            "name": "Ing. Roger Bernardo Perez Veramende", 
+            "correo": "rperezv@hospitalloayza.gob.pe",
+            "anexo": 8001
+        },
+        {
+            "id": 30,
+            "area": "Admision",
+            "cargo": "Jefatura",
+            "name": "Lic. Freddy Mauricio Quispe", 
+            "correo": "fmauricio@hospitalloayza.gob.pe",
+            "anexo": 1452
+        },
+        {
+            "id": 31,
+            "area": " Unidad de Archivo Central",
+            "cargo": "Jefatura",
+            "name": "Sra. Abelina Zarate Daga de Mallma", 
+            "correo": "azarate@hospitalloayza.gob.pe",
+            "anexo": 1452
+        },
+        {
+            "id": 32,
+            "area": "Unidad de Registros Medicos",
+            "cargo": "Jefatura",
+            "name": "Sr. Rodolfo Jesús Quinto Castro", 
+            "correo": "rquinto@hospitalloayza.gob.pe",
+            "anexo": 2211
+        },
+        {
+            "id": 33,
+            "area": "Oficina de Apoyo a la Docencia e Investigacion",
+            "cargo": "Jefatura",
+            "name": "Dr. Guillermo Claudio Barriga Salaverry", 
+            "correo": "gbarriga@hospitalloayza.gob.pe",
+            "anexo": 2301
+        }
+
+    ]
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>hnal</title>
+    <style>
+        .fullScreen {
+            width: 80%;
+            min-height: 100vh;
+          }
+        
+    </style>
+</head>
+
+<body class="bg-dark">
+
+   
+    <div class="container-full">
+        <div class="row">
+            <div class="col ">
+                <h2 class="text-center bg-danger text-white py-2">DIRECTORIO HNAL <span
+                        class="h6 ">#QUEDATEENCASA</span></h2>
+            </div>
+        </div>
+    </div>
+    <main class="fullScreen"> 
+    <div class="container">
+        <div class="row">
+            <div class="col col-md-8 d-flex my-3">
+                <input type="text" class="form-control mx-3" placeholder="Ingresa nombre de la Jefatura"
+                    id="formulario">
+                <button class="btn btn-outline-info" id="boton">Buscar</button>
+
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col col-md-8 card my-2">
+                <ul class="list-group list-group-flush " id="resultado">
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="hnal"> </div>
+</main>
+    <footer class=" d-flex p-3  justify-content-sm-around bg-danger text-white   ">
+        <p>&copy derechos reservados | <span id="date"></span> </p>
+        <p>Developed by Luis Castro</p>
+    </footer>
+    
+    <script src="app.js"></script>
+  
+</body>
+
+</html>
